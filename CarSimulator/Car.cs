@@ -72,10 +72,7 @@ namespace CarSimulator
             }
             public Prius(string model, double mass, double engineForce, double dragArea) : base(model, mass, engineForce, dragArea)
             {
-                //this.model = model;
-                //this.mass = mass;
-                //this.engineForce = engineForce;
-                //this.dragArea = dragArea;
+                
             }
 
         }
@@ -87,10 +84,7 @@ namespace CarSimulator
             }
             public Mazda(string model, double mass, double engineForce, double dragArea) : base(model, mass, engineForce, dragArea)
             {
-                //this.model = model;
-                //this.mass = mass;
-                //this.engineForce = engineForce;
-                //this.dragArea = dragArea;
+                
             }
 
         }
@@ -102,10 +96,7 @@ namespace CarSimulator
             }
             public Tesla(string model, double mass, double engineForce, double dragArea) : base(model, mass, engineForce, dragArea)
             {
-                //this.model = model;
-                //this.mass = mass;
-                //this.engineForce = engineForce;
-                //this.dragArea = dragArea;
+                
             }
 
         }
@@ -117,10 +108,7 @@ namespace CarSimulator
             }
             public Herbie(string model, double mass, double engineForce, double dragArea) : base(model, mass, engineForce, dragArea)
             {
-                //this.model = model;
-                //this.mass = mass;
-                //this.engineForce = engineForce;
-                //this.dragArea = dragArea;
+                
             }
 
         }
